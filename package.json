@@ -1,6 +1,6 @@
 {
     "name": "@rewin/get-random",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "A simple function to select and return a random value from a list.",
     "homepage": "https://github.com/RichEwin/get-random",
     "bugs": {

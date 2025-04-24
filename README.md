@@ -1,6 +1,6 @@
 # 🎲 getRandom
 
-## A tiny, type-safe utility to select a random element from a non-empty array. Useful when you need quick randomness without pulling in a full library like lodash.
+A tiny, type-safe utility to select a random element from a non-empty array. Useful when you need quick randomness without pulling in a full library like lodash.
 
 ## ✨ Features
 
