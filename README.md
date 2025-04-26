@@ -31,14 +31,6 @@ const colors = ['red', 'green', 'blue'];
 const randomColor = getRandom(colors); // might return 'green'
 ```
 
-```
-import { getRandom } from './utils/getRandom';
-
-const fruits = ['🍎', '🍌', '🍇'] as const;
-
-const fruit = getRandom(fruits); // Type is inferred as '🍎' | '🍌' | '🍇'
-```
-
 ## 🛡️ Gotchas
 
 Will throw an error if you pass an empty array.
